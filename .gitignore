@@ -1,0 +1,12 @@
+/.project
+/lib/
+/smtp_demo/
+/temp/
+/template html di invio/
+/fastMailer
+/fastMailer_x64
+/fastMailer.exe
+/smtpservers_.conf
+/smtpservers.conf
+/smtpservers.conf~
+/default.conf

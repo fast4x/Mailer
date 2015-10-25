@@ -1,0 +1,2 @@
+# Mailer
+Mass mailing software

@@ -1,0 +1,751 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: main.attentionn
+msgctxt "main.attentionn"
+msgid "Attenzione"
+msgstr ""
+
+#: main.deleteattach
+msgid "Eliminazione allegato"
+msgstr ""
+
+#: main.deletedest
+msgid "Eliminazione destinatario"
+msgstr ""
+
+#: main.messsent
+msgid "Inviati:"
+msgstr ""
+
+#: main.messtosend
+msgid "Destinatari:"
+msgstr ""
+
+#: main.msgdeleteattach
+msgid "Eliminare l'allegato selezionato?"
+msgstr ""
+
+#: main.msgdeletedest
+msgid "Eliminare il destinatario selezionato?"
+msgstr ""
+
+#: main.msgnewprog
+msgid "Tutti i dati attualmente caricati verranno persi,continuare?"
+msgstr ""
+
+#: main.msgnewprogdesc
+msgctxt "main.msgnewprogdesc"
+msgid "Nuovo progetto"
+msgstr ""
+
+#: main.newprogetto
+msgctxt "main.newprogetto"
+msgid "Nuovo progetto"
+msgstr ""
+
+#: main.prepmessage
+msgid "Preparazione del messaggio"
+msgstr ""
+
+#: main.resend
+msgid "Inviare nuovamente a tutti i destinatari?"
+msgstr ""
+
+#: main.serverconn
+msgid "Connessione al server "
+msgstr ""
+
+#: main.serverconnect
+msgid "Connesso al server..."
+msgstr ""
+
+#: main.serverdisconnect
+msgid "Disconnesso al server..."
+msgstr ""
+
+#: main.tabnotempty
+msgid "La tabella contiene già dei destinatari che verranno sostituiti, continuare?"
+msgstr ""
+
+#: main.txt1
+msgid "E' necessario caricare almeno un destinatario per inviare almeno una email."
+msgstr ""
+
+#: main.txt10
+msgctxt "main.txt10"
+msgid "Allegati "
+msgstr ""
+
+#: main.txt2
+msgctxt "main.txt2"
+msgid "Attenzione"
+msgstr ""
+
+#: main.txt3
+msgid "Invio..."
+msgstr ""
+
+#: main.txt4
+msgid "Invio in corso per "
+msgstr ""
+
+#: main.txt5
+msgid "Inviato"
+msgstr ""
+
+#: main.txt6
+msgid "Invio completato per "
+msgstr ""
+
+#: main.txt7
+msgid "Destinatario "
+msgstr ""
+
+#: main.txt8
+msgid " impossibile da raggiungere "
+msgstr ""
+
+#: main.txt9
+msgctxt "main.txt9"
+msgid "Allegati "
+msgstr ""
+
+#: tform1.button1.caption
+msgctxt "tform1.button1.caption"
+msgid "Carica"
+msgstr ""
+
+#: tform1.button2.caption
+msgctxt "tform1.button2.caption"
+msgid "Invia"
+msgstr ""
+
+#: tform1.caption
+msgctxt "tform1.caption"
+msgid "fast Mailer"
+msgstr ""
+
+#: tform1.emailmitt.editlabel.caption
+msgctxt "tform1.emailmitt.editlabel.caption"
+msgid "Email"
+msgstr ""
+
+#: tform1.emailmitt.text
+msgctxt "tform1.emailmitt.text"
+msgid "Email del mittente"
+msgstr ""
+
+#: tform1.label1.caption
+msgctxt "tform1.label1.caption"
+msgid "Log"
+msgstr ""
+
+#: tform1.loggetto.editlabel.caption
+msgctxt "tform1.loggetto.editlabel.caption"
+msgid "Oggetto"
+msgstr ""
+
+#: tform1.nomemitt.editlabel.caption
+msgctxt "TFORM1.NOMEMITT.EDITLABEL.CAPTION"
+msgid "Nome"
+msgstr ""
+
+#: tform1.nomemitt.text
+msgctxt "tform1.nomemitt.text"
+msgid "Nome del mittente"
+msgstr ""
+
+#: tform1.opendialog1.title
+msgctxt "tform1.opendialog1.title"
+msgid "Seleziona file con elenco destinarari"
+msgstr ""
+
+#: tform1.opendialog2.title
+msgctxt "tform1.opendialog2.title"
+msgid "Aggiungi allegati"
+msgstr ""
+
+#: tform1.speedbutton1.hint
+msgctxt "tform1.speedbutton1.hint"
+msgid "Aggiungi lista destinatari"
+msgstr ""
+
+#: tform1.speedbutton10.hint
+msgctxt "TFORM1.SPEEDBUTTON10.HINT"
+msgid "Salva progetto"
+msgstr ""
+
+#: tform1.speedbutton11.hint
+msgctxt "tform1.speedbutton11.hint"
+msgid "Crea nuovo progetto"
+msgstr ""
+
+#: tform1.speedbutton2.hint
+msgctxt "tform1.speedbutton2.hint"
+msgid "Invia email ai destinatari"
+msgstr ""
+
+#: tform1.speedbutton3.hint
+msgctxt "tform1.speedbutton3.hint"
+msgid "Aggiungi allegato"
+msgstr ""
+
+#: tform1.speedbutton4.hint
+msgctxt "tform1.speedbutton4.hint"
+msgid "Rimuove allegati"
+msgstr ""
+
+#: tform1.speedbutton5.hint
+msgctxt "tform1.speedbutton5.hint"
+msgid "Impostazioni"
+msgstr ""
+
+#: tform1.speedbutton6.hint
+msgctxt "tform1.speedbutton6.hint"
+msgid "Elimina destinatari"
+msgstr ""
+
+#: tform1.speedbutton7.hint
+msgctxt "tform1.speedbutton7.hint"
+msgid "Carica lista destinatari"
+msgstr ""
+
+#: tform1.speedbutton8.hint
+msgctxt "tform1.speedbutton8.hint"
+msgid "Informazioni su fast Mailer"
+msgstr ""
+
+#: tform1.speedbutton9.hint
+msgctxt "TFORM1.SPEEDBUTTON9.HINT"
+msgid "Carica progetto"
+msgstr ""
+
+#: tform1.stringgrid1.columns[0].title.caption
+msgctxt "tform1.stringgrid1.columns[0].title.caption"
+msgid "Gruppo"
+msgstr ""
+
+#: tform1.stringgrid1.columns[1].title.caption
+msgctxt "tform1.stringgrid1.columns[1].title.caption"
+msgid "Nome"
+msgstr ""
+
+#: tform1.stringgrid1.columns[2].title.caption
+msgctxt "TFORM1.STRINGGRID1.COLUMNS[2].TITLE.CAPTION"
+msgid "Destinatario"
+msgstr ""
+
+#: tform1.stringgrid2.columns[0].title.caption
+msgctxt "tform1.stringgrid2.columns[0].title.caption"
+msgid "File"
+msgstr ""
+
+#: tform1.stringgrid2.columns[1].title.caption
+msgctxt "tform1.stringgrid2.columns[1].title.caption"
+msgid "Grandezza"
+msgstr ""
+
+#: tform1.stringgrid3.columns[0].title.caption
+msgctxt "tform1.stringgrid3.columns[0].title.caption"
+msgid "Nome"
+msgstr ""
+
+#: tform1.stringgrid3.columns[1].title.caption
+msgctxt "tform1.stringgrid3.columns[1].title.caption"
+msgid "Server smtp"
+msgstr ""
+
+#: tform1.stringgrid3.columns[2].title.caption
+msgctxt "tform1.stringgrid3.columns[2].title.caption"
+msgid "Porta"
+msgstr ""
+
+#: tform1.stringgrid3.columns[3].title.caption
+msgctxt "tform1.stringgrid3.columns[3].title.caption"
+msgid "Autenticazione"
+msgstr ""
+
+#: tform1.stringgrid3.columns[4].title.caption
+msgctxt "tform1.stringgrid3.columns[4].title.caption"
+msgid "Username"
+msgstr ""
+
+#: tform1.stringgrid3.columns[5].title.caption
+msgctxt "tform1.stringgrid3.columns[5].title.caption"
+msgid "Password"
+msgstr ""
+
+#: tform1.tabhtml.caption
+msgctxt "tform1.tabhtml.caption"
+msgid "Formato HTML"
+msgstr ""
+
+#: tform1.tabsheet1.caption
+msgctxt "tform1.tabsheet1.caption"
+msgid "Messaggio"
+msgstr ""
+
+#: tform1.tabsheet2.caption
+msgctxt "tform1.tabsheet2.caption"
+msgid "Allegati (0)"
+msgstr ""
+
+#: tform1.tabsheet3.caption
+msgctxt "tform1.tabsheet3.caption"
+msgid "Formato TESTO"
+msgstr ""
+
+#: tform1.tabsheet4.caption
+msgctxt "tform1.tabsheet4.caption"
+msgid "Mittente"
+msgstr ""
+
+#: tform1.tabsheet5.caption
+msgctxt "tform1.tabsheet5.caption"
+msgid "Server di invio"
+msgstr ""
+
+#: tform2.caption
+msgctxt "TFORM2.CAPTION"
+msgid "fast Mailer"
+msgstr ""
+
+#: tform2.label1.caption
+msgctxt "TFORM2.LABEL1.CAPTION"
+msgid "fast Mailer"
+msgstr ""
+
+#: tform2.label10.caption
+msgid "Bug tracking"
+msgstr ""
+
+#: tform2.label4.caption
+msgid "Vers. 1.0"
+msgstr ""
+
+#: tform2.label5.caption
+msgid "www.fasttools.it"
+msgstr ""
+
+#: tform2.label6.caption
+msgid "fastTOOLS 2014"
+msgstr ""
+
+#: tform2.label7.caption
+msgid "www.fasttools.it/fast-mailer"
+msgstr ""
+
+#: tform2.label8.caption
+msgid "Web"
+msgstr ""
+
+#: tform2.label9.caption
+msgid "task.fasttools.it/index.php?project=2"
+msgstr ""
+
+#: tform_main.button1.caption
+msgctxt "TFORM_MAIN.BUTTON1.CAPTION"
+msgid "Carica"
+msgstr ""
+
+#: tform_main.button2.caption
+msgctxt "TFORM_MAIN.BUTTON2.CAPTION"
+msgid "Invia"
+msgstr ""
+
+#: tform_main.caption
+msgctxt "TFORM_MAIN.CAPTION"
+msgid "fast Mailer"
+msgstr ""
+
+#: tform_main.emailmitt.editlabel.caption
+msgctxt "TFORM_MAIN.EMAILMITT.EDITLABEL.CAPTION"
+msgid "Email"
+msgstr ""
+
+#: tform_main.emailmitt.text
+msgctxt "TFORM_MAIN.EMAILMITT.TEXT"
+msgid "Email del mittente"
+msgstr ""
+
+#: tform_main.emailreply.editlabel.caption
+msgctxt "tform_main.emailreply.editlabel.caption"
+msgid "Rispondi a"
+msgstr ""
+
+#: tform_main.emailreply.text
+msgctxt "tform_main.emailreply.text"
+msgid "Email di risposta"
+msgstr ""
+
+#: tform_main.label1.caption
+msgctxt "TFORM_MAIN.LABEL1.CAPTION"
+msgid "Log"
+msgstr ""
+
+#: tform_main.loggetto.editlabel.caption
+msgctxt "TFORM_MAIN.LOGGETTO.EDITLABEL.CAPTION"
+msgid "Oggetto"
+msgstr ""
+
+#: tform_main.memohtml.hint
+msgid "Tasto destro per caricare un modello HTML da file"
+msgstr ""
+
+#: tform_main.memotesto.hint
+msgid "Tasto destro per caricare un modello da file di TESTO"
+msgstr ""
+
+#: tform_main.menuitem1.caption
+msgid "Invia di nuovo (selezionato)"
+msgstr ""
+
+#: tform_main.menuitem2.caption
+msgid "Invia di nuovo (tutti)"
+msgstr ""
+
+#: tform_main.menuitem3.caption
+msgctxt "tform_main.menuitem3.caption"
+msgid "Carica contenuto HTML da file"
+msgstr ""
+
+#: tform_main.menuitem4.caption
+msgid "Carica contenuto TESTO da file"
+msgstr ""
+
+#: tform_main.nomemitt.editlabel.caption
+msgctxt "TFORM_MAIN.NOMEMITT.EDITLABEL.CAPTION"
+msgid "Nome"
+msgstr ""
+
+#: tform_main.nomemitt.text
+msgctxt "TFORM_MAIN.NOMEMITT.TEXT"
+msgid "Nome del mittente"
+msgstr ""
+
+#: tform_main.opendialog1.title
+msgctxt "TFORM_MAIN.OPENDIALOG1.TITLE"
+msgid "Seleziona file con elenco destinarari"
+msgstr ""
+
+#: tform_main.opendialog2.title
+msgctxt "TFORM_MAIN.OPENDIALOG2.TITLE"
+msgid "Aggiungi allegati"
+msgstr ""
+
+#: tform_main.opendialog3.title
+msgid "Apri progetto"
+msgstr ""
+
+#: tform_main.openhtml.title
+msgctxt "TFORM_MAIN.OPENHTML.TITLE"
+msgid "Carica contenuto HTML da file"
+msgstr ""
+
+#: tform_main.opentxt.title
+msgctxt "TFORM_MAIN.OPENTXT.TITLE"
+msgid "Carica contenuto HTML da file"
+msgstr ""
+
+#: tform_main.savedialog1.title
+msgctxt "TFORM_MAIN.SAVEDIALOG1.TITLE"
+msgid "Salva progetto"
+msgstr ""
+
+#: tform_main.speedbutton1.hint
+msgctxt "TFORM_MAIN.SPEEDBUTTON1.HINT"
+msgid "Aggiungi lista destinatari"
+msgstr ""
+
+#: tform_main.speedbutton10.hint
+msgctxt "TFORM_MAIN.SPEEDBUTTON10.HINT"
+msgid "Salva progetto"
+msgstr ""
+
+#: tform_main.speedbutton11.hint
+msgctxt "TFORM_MAIN.SPEEDBUTTON11.HINT"
+msgid "Crea nuovo progetto"
+msgstr ""
+
+#: tform_main.speedbutton2.hint
+msgctxt "TFORM_MAIN.SPEEDBUTTON2.HINT"
+msgid "Invia email ai destinatari"
+msgstr ""
+
+#: tform_main.speedbutton3.hint
+msgctxt "TFORM_MAIN.SPEEDBUTTON3.HINT"
+msgid "Aggiungi allegato"
+msgstr ""
+
+#: tform_main.speedbutton4.hint
+msgctxt "TFORM_MAIN.SPEEDBUTTON4.HINT"
+msgid "Rimuove allegati"
+msgstr ""
+
+#: tform_main.speedbutton5.hint
+msgctxt "TFORM_MAIN.SPEEDBUTTON5.HINT"
+msgid "Impostazioni"
+msgstr ""
+
+#: tform_main.speedbutton6.hint
+msgctxt "TFORM_MAIN.SPEEDBUTTON6.HINT"
+msgid "Elimina destinatari"
+msgstr ""
+
+#: tform_main.speedbutton7.hint
+msgctxt "TFORM_MAIN.SPEEDBUTTON7.HINT"
+msgid "Carica lista destinatari"
+msgstr ""
+
+#: tform_main.speedbutton8.hint
+msgctxt "TFORM_MAIN.SPEEDBUTTON8.HINT"
+msgid "Informazioni su fast Mailer"
+msgstr ""
+
+#: tform_main.speedbutton9.hint
+msgctxt "TFORM_MAIN.SPEEDBUTTON9.HINT"
+msgid "Carica progetto"
+msgstr ""
+
+#: tform_main.stringgrid1.columns[0].title.caption
+msgctxt "TFORM_MAIN.STRINGGRID1.COLUMNS[0].TITLE.CAPTION"
+msgid "Gruppo"
+msgstr ""
+
+#: tform_main.stringgrid1.columns[1].title.caption
+msgctxt "TFORM_MAIN.STRINGGRID1.COLUMNS[1].TITLE.CAPTION"
+msgid "Nome"
+msgstr ""
+
+#: tform_main.stringgrid1.columns[2].title.caption
+msgctxt "TFORM_MAIN.STRINGGRID1.COLUMNS[2].TITLE.CAPTION"
+msgid "Destinatario"
+msgstr ""
+
+#: tform_main.stringgrid1.columns[3].title.caption
+msgid "Status"
+msgstr ""
+
+#: tform_main.stringgrid1.columns[4].title.caption
+msgid "StatusNum"
+msgstr ""
+
+#: tform_main.stringgrid1.hint
+msgid "Tasto destro per menu opzioni di invio"
+msgstr ""
+
+#: tform_main.stringgrid2.columns[0].title.caption
+msgctxt "TFORM_MAIN.STRINGGRID2.COLUMNS[0].TITLE.CAPTION"
+msgid "File"
+msgstr ""
+
+#: tform_main.stringgrid2.columns[1].title.caption
+msgctxt "TFORM_MAIN.STRINGGRID2.COLUMNS[1].TITLE.CAPTION"
+msgid "Grandezza"
+msgstr ""
+
+#: tform_main.stringgrid3.columns[0].title.caption
+msgctxt "TFORM_MAIN.STRINGGRID3.COLUMNS[0].TITLE.CAPTION"
+msgid "Nome"
+msgstr ""
+
+#: tform_main.stringgrid3.columns[1].title.caption
+msgctxt "TFORM_MAIN.STRINGGRID3.COLUMNS[1].TITLE.CAPTION"
+msgid "Server smtp"
+msgstr ""
+
+#: tform_main.stringgrid3.columns[2].title.caption
+msgctxt "TFORM_MAIN.STRINGGRID3.COLUMNS[2].TITLE.CAPTION"
+msgid "Porta"
+msgstr ""
+
+#: tform_main.stringgrid3.columns[3].title.caption
+msgctxt "TFORM_MAIN.STRINGGRID3.COLUMNS[3].TITLE.CAPTION"
+msgid "Autenticazione"
+msgstr ""
+
+#: tform_main.stringgrid3.columns[4].title.caption
+msgctxt "TFORM_MAIN.STRINGGRID3.COLUMNS[4].TITLE.CAPTION"
+msgid "Username"
+msgstr ""
+
+#: tform_main.stringgrid3.columns[5].title.caption
+msgctxt "TFORM_MAIN.STRINGGRID3.COLUMNS[5].TITLE.CAPTION"
+msgid "Password"
+msgstr ""
+
+#: tform_main.stringgrid3.columns[6].title.caption
+msgctxt "TFORM_MAIN.STRINGGRID3.COLUMNS[6].TITLE.CAPTION"
+msgid "Timeout"
+msgstr ""
+
+#: tform_main.tabhtml.caption
+msgctxt "TFORM_MAIN.TABHTML.CAPTION"
+msgid "Formato HTML"
+msgstr ""
+
+#: tform_main.tabsheet1.caption
+msgctxt "TFORM_MAIN.TABSHEET1.CAPTION"
+msgid "Messaggio"
+msgstr ""
+
+#: tform_main.tabsheet2.caption
+msgctxt "TFORM_MAIN.TABSHEET2.CAPTION"
+msgid "Allegati (0)"
+msgstr ""
+
+#: tform_main.tabsheet3.caption
+msgctxt "TFORM_MAIN.TABSHEET3.CAPTION"
+msgid "Formato TESTO"
+msgstr ""
+
+#: tform_main.tabsheet4.caption
+msgctxt "TFORM_MAIN.TABSHEET4.CAPTION"
+msgid "Mittente"
+msgstr ""
+
+#: tform_main.tabsheet5.caption
+msgctxt "TFORM_MAIN.TABSHEET5.CAPTION"
+msgid "Server di invio"
+msgstr ""
+
+#: tform_setting.caption
+msgctxt "TFORM_SETTING.CAPTION"
+msgid "Impostazioni"
+msgstr ""
+
+#: tform_setting.checkbox1.caption
+msgid "Crea file di log"
+msgstr ""
+
+#: tform_setting.dbgrid1.columns[0].title.caption
+msgctxt "TFORM_SETTING.DBGRID1.COLUMNS[0].TITLE.CAPTION"
+msgid "Nome"
+msgstr ""
+
+#: tform_setting.dbgrid1.columns[1].title.caption
+msgctxt "TFORM_SETTING.DBGRID1.COLUMNS[1].TITLE.CAPTION"
+msgid "Server smtp"
+msgstr ""
+
+#: tform_setting.dbgrid1.columns[2].title.caption
+msgctxt "TFORM_SETTING.DBGRID1.COLUMNS[2].TITLE.CAPTION"
+msgid "Porta"
+msgstr ""
+
+#: tform_setting.dbgrid1.columns[3].title.caption
+msgctxt "TFORM_SETTING.DBGRID1.COLUMNS[3].TITLE.CAPTION"
+msgid "Autenticazione"
+msgstr ""
+
+#: tform_setting.dbgrid1.columns[4].title.caption
+msgctxt "TFORM_SETTING.DBGRID1.COLUMNS[4].TITLE.CAPTION"
+msgid "Username"
+msgstr ""
+
+#: tform_setting.dbgrid1.columns[5].title.caption
+msgctxt "TFORM_SETTING.DBGRID1.COLUMNS[5].TITLE.CAPTION"
+msgid "Password"
+msgstr ""
+
+#: tform_setting.dbgrid1.columns[6].title.caption
+msgctxt "tform_setting.dbgrid1.columns[6].title.caption"
+msgid "Timeout"
+msgstr ""
+
+#: tform_setting.emailmitt.editlabel.caption
+msgctxt "TFORM_SETTING.EMAILMITT.EDITLABEL.CAPTION"
+msgid "Email"
+msgstr ""
+
+#: tform_setting.emailmitt.text
+msgctxt "TFORM_SETTING.EMAILMITT.TEXT"
+msgid "Email del mittente"
+msgstr ""
+
+#: tform_setting.emailreply.editlabel.caption
+msgctxt "TFORM_SETTING.EMAILREPLY.EDITLABEL.CAPTION"
+msgid "Rispondi a"
+msgstr ""
+
+#: tform_setting.emailreply.text
+msgctxt "TFORM_SETTING.EMAILREPLY.TEXT"
+msgid "Email di risposta"
+msgstr ""
+
+#: tform_setting.groupbox1.caption
+msgid "Agent"
+msgstr ""
+
+#: tform_setting.groupbox2.caption
+msgctxt "TFORM_SETTING.GROUPBOX2.CAPTION"
+msgid "Mittente"
+msgstr ""
+
+#: tform_setting.heloname.editlabel.caption
+msgid "Helo Name"
+msgstr ""
+
+#: tform_setting.heloname.text
+msgctxt "TFORM_SETTING.HELONAME.TEXT"
+msgid "fast Mailer"
+msgstr ""
+
+#: tform_setting.label1.caption
+msgid "Modello predefinito per email in formato HTML"
+msgstr ""
+
+#: tform_setting.label2.caption
+msgid "Modello predefinito per email in formato TESTO"
+msgstr ""
+
+#: tform_setting.mailagent.editlabel.caption
+msgid "Nome Agent"
+msgstr ""
+
+#: tform_setting.mailagent.text
+msgctxt "TFORM_SETTING.MAILAGENT.TEXT"
+msgid "fast Mailer"
+msgstr ""
+
+#: tform_setting.nomemitt.editlabel.caption
+msgctxt "TFORM_SETTING.NOMEMITT.EDITLABEL.CAPTION"
+msgid "Nome"
+msgstr ""
+
+#: tform_setting.nomemitt.text
+msgctxt "TFORM_SETTING.NOMEMITT.TEXT"
+msgid "Nome del mittente"
+msgstr ""
+
+#: tform_setting.panel1.caption
+msgid "Panel1"
+msgstr ""
+
+#: tform_setting.subject.editlabel.caption
+msgid "Oggetto email predefinito"
+msgstr ""
+
+#: tform_setting.subject.text
+msgid "Oggetto email"
+msgstr ""
+
+#: tform_setting.tabsheet1.caption
+msgctxt "tform_setting.tabsheet1.caption"
+msgid "Modelli"
+msgstr ""
+
+#: tform_setting.tabsheet2.caption
+msgid "Servers di invio"
+msgstr ""
+
+#: tform_setting.tabsheet3.caption
+msgid "Identità"
+msgstr ""
+
+#: tform_setting.tabsheet4.caption
+msgctxt "TFORM_SETTING.TABSHEET4.CAPTION"
+msgid "Generale"
+msgstr ""
+

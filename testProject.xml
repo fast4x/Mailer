@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fastMailerProject>
+  <Recipients>
+    <Recipient Name="rino" Group="cicia" Status=""><![CDATA[c.russo@inca.it]]></Recipient>
+    <Recipient Name="rino" Group="cicia" Status=""><![CDATA[rinorusso@cgilsicilia.it]]></Recipient>
+    <Recipient Name="rino" Group="cicia" Status=""><![CDATA[rinorusso@gmail.com]]></Recipient>
+    <Recipient Name="rino" Group="cicia" Status=""><![CDATA[contact@rinorusso.it]]></Recipient>
+    <Recipient Name="rino" Group="cicia" Status=""><![CDATA[contact@fasttools.it]]></Recipient>
+  </Recipients>
+  <Attachments>
+    <Attachment Size="187 bytes"><![CDATA[C:\FAST2\Mailer\temp\lista.txt]]></Attachment>
+  </Attachments>
+  <Params>
+    <From Name="filippo" Reply="filippo@jiuuu.com">filippo@mitt.com</From>
+    <HTMLMessage Subject="oggetto mess"><![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<!-- If you delete this meta tag, Half Life 3 will never be released. -->
+<meta name="viewport" content="width=device-width" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Dati ArGO OMNIBUS CGIL Sicilia</title>
+	
+<link rel="stylesheet" type="text/css" href="http://www.cgilsicilia.it/email_template/email.css" />
+
+</head>
+ 
+<body bgcolor="#FFFFFF">
+
+<!-- HEADER -->
+<table class="head-wrap" bgcolor="#DB4A39">
+	<tr>
+		<td></td>
+		<td class="header container" >
+				
+				<div class="content">
+				<table bgcolor="#DB4A39">
+					<tr>
+						<td><h6 class="collapse">CGIL Sicilia</h6></td>
+						<td align="right">Dati ArGO</td>
+					</tr>
+				</table>
+				</div>
+				
+		</td>
+		<td></td>
+	</tr>
+</table><!-- /HEADER -->
+
+
+<!-- BODY -->
+<table class="body-wrap">
+	<tr>
+		<td></td>
+		<td class="container" bgcolor="#FFFFFF">
+
+			<div class="content">
+			<table>
+				<tr>
+					<td>
+						<h3>Aggiornamento periodico dati ArGO</h3>
+						
+						<p class="lead">In allegato trovi il riepilogo dei dati presenti in ArGO per tutta la Sicilia e raggruppati per territorio.</p>
+
+</p>
+
+<!-- social & contact -->
+						
+
+						<!-- Callout Panel -->
+						<p class="callout" align="justify">Attenzione!<br>
+Questa comunicazione &egrave; riservata a tutti i Segretari ai vari livelli territoriali e regionali, pertanto questo messaggio e i suoi allegati sono indirizzati esclusivamente alle persone indicate. La diffusione, copia o qualsiasi altra azione derivante dalla conoscenza di queste informazioni sono rigorosamente vietate e protette dalla normativa vigente sulla tutela dei dati riservati (D.Lgs 196/2003). Qualora abbiate ricevuto questo documento per errore siete cortesemente pregati di darne immediata comunicazione al mittente e di provvedere alla sua distruzione, Grazie.
+						</p><!-- /Callout Panel -->					
+												
+						<table class="social" width="100%">
+							<tr>
+								<td>
+									
+									
+									
+									<table align="left" class="column">
+										<tr>
+											<td>				
+																			
+												<h5 class="">Per ulteriori info:</h5>												<p><strong>Rino Russo</strong><br/>
+												<strong>OMNIBUS CGIL</strong><br/>
+												Cell: <strong>3357434891</strong><br/>
+                Email: <strong><a href="emailto:rinorusso@cgilsicilia.it">rinorusso@cgilsicilia.it</a></strong></p>
+                
+											</td>
+										</tr>
+									</table><!-- /column 2 -->
+									
+									<span class="clear"></span>	
+									
+								</td>
+							</tr>
+						</table><!-- /social & contact -->
+						
+					</td>
+				</tr>
+			</table>
+			</div><!-- /content -->
+									
+		</td>
+		<td></td>
+	</tr>
+</table><!-- /BODY -->
+
+<!-- FOOTER -->
+<table class="footer-wrap">
+	<tr>
+		<td></td>
+		<td class="container">
+			
+				
+				
+		</td>
+		<td></td>
+	</tr>
+</table><!-- /FOOTER -->
+
+</body>
+</html>]]></HTMLMessage>
+    <TEXTMessage Subject="oggetto mess"><![CDATA[sasizzaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa]]></TEXTMessage>
+  </Params>
+</fastMailerProject>

@@ -1,0 +1,49 @@
+3-10-14 12:35:04 - Destinatari: 5
+3-10-14 12:35:04 - Preparazione del messaggio
+3-10-14 12:35:04 - ----------------------------------------------------------------------------------
+3-10-14 12:35:04 - Connessione al server CGIL Sicilia
+3-10-14 12:35:05 - Connected.
+3-10-14 12:35:05 - Connesso al server...
+3-10-14 12:35:06 - 220-srv-hs1.netsons.net ESMTP Exim 4.82 #2 Fri, 03 Oct 2014 12:35:04 +0200 <EOL>220-We do not authorize the use of this system to transport unsolicited, <EOL>220 and/or bulk e-mail.<EOL>
+3-10-14 12:35:07 - 250-srv-hs1.netsons.net Hello 89-97-45-40.ip15.fastwebnet.it [89.97.45.40]<EOL>250-SIZE 52428800<EOL>250-8BITMIME<EOL>250-PIPELINING<EOL>250-AUTH PLAIN LOGIN<EOL>250-STARTTLS<EOL>250 HELP<EOL>
+3-10-14 12:35:07 - Invio in corso per c.russo@inca.it
+3-10-14 12:35:07 - 334 VXNlcm5hbWU6<EOL>
+3-10-14 12:35:07 - 334 UGFzc3dvcmQ6<EOL>
+3-10-14 12:35:07 - 235 Authentication succeeded<EOL>
+3-10-14 12:35:08 - 250 OK<EOL>
+3-10-14 12:35:08 - 250 Accepted<EOL>
+3-10-14 12:35:08 - 354 Enter message, ending with "." on a line by itself<EOL>
+3-10-14 12:35:09 - 250 OK id=1Xa0CZ-001gXG-6U<EOL>
+3-10-14 12:35:09 - Invio completato per c.russo@inca.it
+3-10-14 12:35:09 - ----------------------------------------------------------------------------------
+3-10-14 12:35:09 - Invio in corso per rinorusso@cgilsicilia.it
+3-10-14 12:35:09 - 250 OK<EOL>
+3-10-14 12:35:09 - 250 Accepted<EOL>
+3-10-14 12:35:10 - 354 Enter message, ending with "." on a line by itself<EOL>
+3-10-14 12:35:11 - 250 OK id=1Xa0Ca-001gXG-KF<EOL>
+3-10-14 12:35:11 - Invio completato per rinorusso@cgilsicilia.it
+3-10-14 12:35:11 - ----------------------------------------------------------------------------------
+3-10-14 12:35:11 - Invio in corso per rinorusso@gmail.com
+3-10-14 12:35:11 - 250 OK<EOL>
+3-10-14 12:35:11 - 250 Accepted<EOL>
+3-10-14 12:35:11 - 354 Enter message, ending with "." on a line by itself<EOL>
+3-10-14 12:35:12 - 250 OK id=1Xa0Cc-001gXG-MO<EOL>
+3-10-14 12:35:12 - Invio completato per rinorusso@gmail.com
+3-10-14 12:35:12 - ----------------------------------------------------------------------------------
+3-10-14 12:35:12 - Invio in corso per contact@rinorusso.it
+3-10-14 12:35:12 - 250 OK<EOL>
+3-10-14 12:35:12 - 250 Accepted<EOL>
+3-10-14 12:35:12 - 354 Enter message, ending with "." on a line by itself<EOL>
+3-10-14 12:35:13 - 250 OK id=1Xa0Cd-001gXG-JK<EOL>
+3-10-14 12:35:13 - Invio completato per contact@rinorusso.it
+3-10-14 12:35:13 - ----------------------------------------------------------------------------------
+3-10-14 12:35:13 - Invio in corso per contact@fasttools.it
+3-10-14 12:35:13 - 250 OK<EOL>
+3-10-14 12:35:13 - 250 Accepted<EOL>
+3-10-14 12:35:13 - 354 Enter message, ending with "." on a line by itself<EOL>
+3-10-14 12:35:14 - 250 OK id=1Xa0Ce-001gXG-Fg<EOL>
+3-10-14 12:35:14 - Invio completato per contact@fasttools.it
+3-10-14 12:35:14 - ----------------------------------------------------------------------------------
+3-10-14 12:35:14 - 221 srv-hs1.netsons.net closing connection<EOL>
+3-10-14 12:35:14 - Disconnected.
+3-10-14 12:35:14 - Disconnesso al server...
